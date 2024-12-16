@@ -1,0 +1,59 @@
+{
+  "name": "@adrihle/intersection-hook",
+  "version": "1.0.0-beta.1",
+  "description": "React Hook for Tracking Section Visibility in the Viewport",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrihle/intersection-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "intersection"
+  ],
+  "bugs": {
+    "url": "https://github.com/adrihle/intersection-hook/issues"
+  },
+  "homepage": "https://github.com/adrihle/intersection-hook#readme",
+  "author": "Adrian Lopez Espinosa",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.26.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.1.0",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/jest": "^29.5.14",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "react-test-renderer": "^19.0.0",
+    "ts-jest": "^29.2.5",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
