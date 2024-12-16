@@ -1,5 +1,5 @@
 {
-  "name": "@adrihle/intersection-hook",
+  "name": "@adrihfly/intersection-hook",
   "version": "1.0.0-beta.1",
   "description": "React Hook for Tracking Section Visibility in the Viewport",
   "main": "dist/index.js",
