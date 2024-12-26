@@ -2,6 +2,8 @@
 
 This package provides a set of tools to easily implement Intersection Observer in React applications. It allows you to register elements and track their visibility in the viewport. This is ideal for creating dynamic navigation menus that highlight the active section as the user scrolls.
 
+![example](./examples/1.gif)
+
 ## Installation
 
 You can install the package using npm or yarn.
