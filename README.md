@@ -11,13 +11,13 @@ You can install the package using npm or yarn.
 ### Using npm:
 
 ```bash
-npm install @adrihle/intersection-hook
+npm install @adrihfly/intersection-hook
 ```
 
 ### Using yarn:
 
 ```bash
-yarn add @adrihle/intersection-hook
+yarn add @adrihfly/intersection-hook
 ```
 
 ## Usage
